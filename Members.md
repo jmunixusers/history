@@ -42,5 +42,6 @@
 | Martin Nester     | 2021 - Present | 2021 - Present       |
 | Jackson Darman    | 2022 - Present | 2022 - Present       |
 | Ryan Miller       | 2022 - Present | 2022 - Present       |
+| Alex Furlich	     | 2022 - Present | 2022 - Present       |
 
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
