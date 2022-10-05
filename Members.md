@@ -46,7 +46,7 @@
 | William Morris    | 2021 - Present | 2022 - Present       |
 | Jackson Darman    | 2022 - Present | 2022 - Present       |
 | Rafael Dietsch    | 2022 - Present | 2022 - Present       |
-| Robert Frimel     | 2022 - Present | 2002 - Present       |
+| Robert Frimel     | 2022 - Present | 2022 - Present       |
 | Alex Furlich	    | 2022 - Present | 2022 - Present       |
 | Jacob Grimes      | 2022 - Present | 2022 - Present       |
 | Jelal Kaufman     | 2022 - Present | 2022 - Present       |
