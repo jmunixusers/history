@@ -47,6 +47,7 @@
 | Rafael Dietsch    | 2022 - Present | 2022 - Present       |
 | Robert Frimel     | 2022 - Present | 2002 - Present       |
 | Jacob Grimes      | 2022 - Present | 2022 - Present       |
+| Jelal Kaufman     | 2022 - Present | 2022 - Present       |
 | Ryan Miller       | 2022 - Present | 2022 - Present       |
 | Ray Steen         | 2022 - Present | 2022 - Present       |
 
