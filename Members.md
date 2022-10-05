@@ -43,6 +43,7 @@
 | Matthew Wong	    | 2020 - Present | 2020 - Present       |
 | Jackson Greer     | 2021 - Present | 2021 - Present       |
 | Martin Nester     | 2021 - Present | 2021 - Present       |
+| William Morris    | 2021 - Present | 2022 - Present       |
 | Jackson Darman    | 2022 - Present | 2022 - Present       |
 | Rafael Dietsch    | 2022 - Present | 2022 - Present       |
 | Robert Frimel     | 2022 - Present | 2002 - Present       |
