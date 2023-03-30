@@ -1,5 +1,12 @@
 # Officers of the UUG
 
+## 2023-2024
+
+* Emil Hofstetter - President
+* Ray Steen - Vice President
+* Ben Eastwood - Secretary
+* Ryan Miller - Treasurer
+
 ## 2022-2023
 
 * Dean Ludwig - President
