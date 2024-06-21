@@ -1,5 +1,11 @@
 # Officers of the UUG
 
+## 2024-2025
+* Ray Steen - President
+* Connor Sample - Vice President
+* Ben Eastwood - Secretary
+* Jackson Darman - Treasurer
+
 ## 2023-2024
 
 * Emil Hofstetter - President
