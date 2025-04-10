@@ -1,9 +1,16 @@
 # Officers of the UUG
 
+## 2025-2026
+* Ray Steen - President
+* Connor Sample - Vice President
+* Robbie Karas - Secretary
+* Mitch Feigenbaum - Treasurer
+
 ## 2024-2025
 * Ray Steen - President
 * Connor Sample - Vice President
-* Ben Eastwood - Secretary
+* ~~Ben Eastwood~~ - Secretary
+* Mitch Feigenbaum - Secretary
 * Jackson Darman - Treasurer
 
 ## 2023-2024
