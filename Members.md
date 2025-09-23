@@ -2,6 +2,7 @@
 
 | Name              | Years at JMU   | Years active in UUG  |
 | ----------------- | -------------- | -------------------- |
+| Wes Deviers       | 2000 - 2004    | 2000 - 2006          |
 | Mike Ripley       | 2002 - Present | 2003 - Present       |
 | Mike Lam (stu)    | 2004 - 2007    | 2004 - 2007          |
 | Seth Wright       | 2006 - 2017    | 2007 - 2017          |
