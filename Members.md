@@ -54,6 +54,7 @@
 | Ryan Miller       | 2022 - Present | 2022 - Present       |
 | Ray Steen         | 2022 - Present | 2022 - Present       |
 | Sophie Colonna    | 2023 - Present | 2025 - Present       |
+| Mitch Feigenbaum  | 2023 - Present | 2024 - Present       |
 | Ajax Peterson     | 2023 - Present | 2025 - Present       |
 | Connor Sample     | 2023 - Present | 2024 - Present       |
 | Robbie Karas      | 2024 - Present | 2024 - Present       |
