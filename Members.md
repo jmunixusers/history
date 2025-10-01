@@ -60,5 +60,6 @@
 | Robbie Karas        | 2024 - Present | 2024 - Present      |
 | Minhhai Quach       | 2024 - Present | 2024 - Present      |
 | Nicholas Tamassia   | 2024 - Present | 2024 - Present      |
+| Luke Bonnell        | 2025 - Present | 2025 - Present      |
 
 _Please add yourself sorted by Years at JMU, then alphabetical by last name._
