@@ -55,5 +55,6 @@
 | Ray Steen         | 2022 - Present | 2022 - Present       |
 | Connor Sample     | 2023 - Present | 2024 - Present       |
 | Robbie Karas      | 2024 - Present | 2024 - Present       |
+| Sophie Colonna    | 2023 - Present | 2025 - Present       |
 
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
