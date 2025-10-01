@@ -57,5 +57,6 @@
 | Ajax Peterson     | 2023 - Present | 2025 - Present       |
 | Connor Sample     | 2023 - Present | 2024 - Present       |
 | Robbie Karas      | 2024 - Present | 2024 - Present       |
+| Minhhai Quach     | 2024 - Present | 2024 - Present       |
 
 *Please add yourself sorted by Years at JMU, then alphabetical by last name.*
