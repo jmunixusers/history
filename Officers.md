@@ -1,5 +1,12 @@
 # Officers of the UUG
 
+## 2026-2027
+* Connor Sample - President
+* Robbie Karas - Vice President
+* Nic Cicchi - Vice President
+* Brennan Craig - Secretary
+* Leonardo Becerra - Treasurer
+
 ## 2025-2026
 * Ray Steen - President
 * Connor Sample - Vice President
