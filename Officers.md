@@ -63,20 +63,20 @@ was the beginning of tracking constitution changes in a version control system.
 * Ryan Showalter - Treasurer
 
 ## 2018-2019
-* Kyle Laker - President
+* Laurel May - President
 * Richard Bimmer - Vice President
 * Christy Kobert - Secretary
 * Mike McGloin - Treasurer
 
 ## 2017-2018
-* Kyle Laker - President
+* Laurel May - President
 * Richard Bimmer - Vice President
 * Chris Frome - Secretary
 * Mike McGloin - Treasurer
 
 ## 2016-2017
 * Pavan Gudimetta - President
-* Kyle Laker - Vice President
+* Laurel May - Vice President
 * James Battle - Secretary
 * Alex Flores - Treasurer
 
